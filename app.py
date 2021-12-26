@@ -51,3 +51,4 @@ def appRun():
     col2.header("ROA")
     col2.write(df['returnOnAssets'])
 
+apprun()
